@@ -20,7 +20,7 @@ Modern tools like Notion or Jira are great for planning, but terrible for *doing
 
 ## 🛠 Installation (Beta)
 
-1. Download the latest `.exe` from the [Releases](https://github.com) page.
+1. Download the latest `.exe` from the [Releases](https://github.com/cookieoff/Minimalist-Workstream/releases) page.
 2. Run the application (No installation required).
 3. Set your goal and start your stream.
 
